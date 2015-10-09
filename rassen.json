@@ -1,0 +1,13 @@
+{	"Rassen": [
+		{
+			"Name": "Arborim",
+			"Bewegung" : [4, 8, 32, 4],
+			"GK" : "M"
+		},
+		{
+			"Name": "Mensch",
+			"Bewegung" : [4, 8, 32, 4],
+			"GK" : "M"
+		}
+	]
+}
