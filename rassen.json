@@ -97,7 +97,7 @@
 				"Schwäche" : "Kälteempfindlich",
 				"Wert" : 4
 			}]
-		}
+		},
 		{
 			"Name": "Mensch",
 			"Bewegung" : [4, 8, 32, 4],
