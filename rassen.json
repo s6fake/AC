@@ -3,6 +3,7 @@
 			"Name": "Arborim",
 			"Bewegung" : [4, 8, 32, 4],
 			"GK" : "M",
+			"Höchstalter" : 300,
 			"Eigenschaften-Minimal" : 		[2, 2, 3, 3, 3, 2, 3],
 			"Eigenschaften-Durchschnitt" :	[4, 5, 6, 5, 5, 4, 6],
 			"Eigenschaften-Maximal" :	[9, 10, 11, 10, 10, 9, 11],
@@ -17,6 +18,7 @@
 			"Name" : "Drakodrim",
 			"Bewegung" : [3, 6, 24, 3],
 			"GK" : "M",
+			"Höchstalter" : 200,
 			"Eigenschaften-Minimal" :		[3, 3, 2, 2, 2, 3, 2],
 			"Eigenschaften-Durchschnitt" :	[5, 7, 5, 4, 5, 5, 4],
 			"Eigenschaften-Maximal" :	[10, 12, 10, 9, 10, 10, 9],
@@ -32,14 +34,14 @@
 			{
 				"Fertigkeit" : "Schätzen",
 				"Bonus" : 2
-			}
-			]
+			}]
 		},
 		{
 			"Name" : "Fee",
 			"Bewegung" : [1, 2, 8, 0.5],
 			"Fliegen" : [3, 5, 20],
 			"GK" : "W",
+			"Höchstalter" : 80,
 			"Eigenschaften-Minimal" : 		[1, 1, 4, 3, 2, 2, 3],
 			"Eigenschaften-Durchschnitt" :	[2, 3, 7, 6, 5, 4, 6],
 			"Eigenschaften-Maximal" :		[5, 6, 12, 11, 10, 9, 11],
@@ -56,17 +58,69 @@
 			{
 				"Fertigkeit" : "Verbergen",
 				"Bonus" : 4
-			}
-			]
+			}]
 		},
+		{
+			"Name" : "Halbling",
+			"Bewegung" : [3, 6, 24, 3],
+			"GK" : "K",
+			"Höchstalter" : 80,
+			"Eigenschaften-Minimal" : [1, 2, 3, 2, 2, 2, 2],
+			"Eigenschaften-Durchschnitt" : [3, 4, 6, 6, 5, 5, 6],
+			"Eigenschaften-Maximal" :		[8, 9, 11, 11, 10, 10, 11],
+			"Fertigkeitsbonus" : [
+			{
+				"Fertigkeit" : "Verbergen",
+				"Bonus" : 2
+			},
+			{
+				"Fertigkeit" : "Schleichen",
+				"Bonus" : 1
+			}]
+		},
+		{
+			"Name" : "Krask",
+			"Bewegung" : [4, 10, 40, 4],
+			"GK" : "M",
+			"Höchstalter" : 80,
+			"Eigenschaften-Minimal" : 		[3, 3, 3, 3, 2, 3, 2],
+			"Eigenschaften-Durchschnitt" :	[6, 5, 5, 6, 4, 5, 4],
+			"Eigenschaften-Maximal" :	[11, 10, 10, 11, 9, 10, 9],
+			"Fertigkeitsbonus" : [],
+			"Vorzüge" : [
+			{
+				"Vorzug" : "Hitzetolerant",
+				"Wert" : 4
+			}],
+			"Schwächen" : [
+			{
+				"Schwäche" : "Kälteempfindlich",
+				"Wert" : 4
+			}]
+		}
 		{
 			"Name": "Mensch",
 			"Bewegung" : [4, 8, 32, 4],
 			"GK" : "M",
+			"Höchstalter" : 100,
 			"Eigenschaften-Minimal" : 		[3, 3, 3, 3, 3, 3, 3],
 			"Eigenschaften-Durchschnitt" : 	[5, 5, 5, 5, 5, 5, 5],
 			"Eigenschaften-Maximal"	:		[10, 10, 10, 10, 10, 10, 10],
 			"Fertigkeitsbonus" : []
+		},
+		{
+			"Name" : "Morai",
+			"Bewegung" : [4, 8, 32, 4],
+			"GK" : "M",
+			"Höchstalter" : 400,
+			"Eigenschaften-Minimal" :		[2, 2, 3, 3, 3, 3, 2],
+			"Eigenschaften-Durchschnitt" :	[4, 4, 6, 6, 5, 5, 5],
+			"Eigenschaften-Maximal" :	[9, 9, 11, 11, 10, 10, 10],
+			"Fertigkeitsbonus" : [
+			{
+				"Fertigkeit" : "Überleben",
+				"Bonus" : 2
+			}]
 		}
 	]
 }
