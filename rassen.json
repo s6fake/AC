@@ -1,6 +1,5 @@
-{	"Rassen": [
-		{
-			"Name": "Arborim",
+{	"Rassen": {
+		"Arborim" : {
 			"Bewegung" : [4, 8, 32, 4],
 			"GK" : "M",
 			"Höchstalter" : 300,
@@ -14,8 +13,7 @@
 				}
 			]
 		},
-		{
-			"Name" : "Drakodrim",
+		"Drakodrim" : {
 			"Bewegung" : [3, 6, 24, 3],
 			"GK" : "M",
 			"Höchstalter" : 200,
@@ -36,8 +34,7 @@
 				"Bonus" : 2
 			}]
 		},
-		{
-			"Name" : "Fee",
+		"Fee" : {
 			"Bewegung" : [1, 2, 8, 0.5],
 			"Fliegen" : [3, 5, 20],
 			"GK" : "W",
@@ -60,8 +57,7 @@
 				"Bonus" : 4
 			}]
 		},
-		{
-			"Name" : "Halbling",
+		"Halbling" : {
 			"Bewegung" : [3, 6, 24, 3],
 			"GK" : "K",
 			"Höchstalter" : 80,
@@ -78,8 +74,7 @@
 				"Bonus" : 1
 			}]
 		},
-		{
-			"Name" : "Krask",
+		"Krask" : {
 			"Bewegung" : [4, 10, 40, 4],
 			"GK" : "M",
 			"Höchstalter" : 80,
@@ -98,8 +93,7 @@
 				"Wert" : 4
 			}]
 		},
-		{
-			"Name": "Mensch",
+		"Mensch" : {
 			"Bewegung" : [4, 8, 32, 4],
 			"GK" : "M",
 			"Höchstalter" : 100,
@@ -108,8 +102,7 @@
 			"Eigenschaften-Maximal"	:		[10, 10, 10, 10, 10, 10, 10],
 			"Fertigkeitsbonus" : []
 		},
-		{
-			"Name" : "Morai",
+		"Morai" : {
 			"Bewegung" : [4, 8, 32, 4],
 			"GK" : "M",
 			"Höchstalter" : 400,
@@ -122,5 +115,5 @@
 				"Bonus" : 2
 			}]
 		}
-	]
+	}
 }
