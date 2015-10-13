@@ -1,7 +1,9 @@
 {
 	"Schulen" : {
-		"Bardenschulebla" : {
-		 	"Musisches Talent" : {},
+		"Bardenschule" : {
+		 	"Musisches Talent" : {
+				"Beschreibung" : "Der Barde sucht sich eine Unterhaltungsfertigkeit aus, wie beispielsweise ein Instrument, Turnen, Rhetorik oder Schauspielerei. Auf diese erhält er einen Bonis in Höhe seiner Stufe in de Bardenscule. Es ist nicht möglich eine Waffenfertigkeit zu wählen"
+			},
 			"Erwachte Begabung" : {},
 			"Den Tapferen schützt das Glück" : {},
 			"Erwachte Begabung" : {},
