@@ -1,0 +1,32 @@
+{
+	"Schulen" : {
+		"Bardenschule" : [
+		{ "Musisches Talent" : {
+			"Beschreibung" : "Der Barde sucht sich eine Unterhaltungsfertigkeit aus, wie beispielsweise ein Instrument, Turnen, Rhetorik oder Schauspielerei. Auf diese erhält er einen Bonis in Höhe seiner Stufe in de Bardenscule. Es ist nicht möglich eine Waffenfertigkeit zu wählen"
+			}
+		}],
+		"Berserker" : [],
+		"Blattschuss" : [],
+		"Dämonenjäger" : [],
+		"Florentine" : [],
+		"Galea" : [],
+		"Gossenkampf" : [],
+		"Graue Eminenz" : [],
+		"Herrscher dunkler Gassen" : [],
+		"Jäger" : [],
+		"Klingenlied" : [],
+		"Kryss" : [],
+		"Lichtbringer" : [],
+		"Nachtgeist" : [],
+		"Praetoria" : [],
+		"Riastradh" : [],
+		"Saboteur" : [],
+		"Schattenhand" : [],
+		"Schnitter" : [],
+		"Stahlfaust" : [],
+		"Sturmreiter" : [],
+		"Tiermeister" : [],
+		"Waffenmeister" : [],
+		"Windkrieger" : []
+	}
+}
