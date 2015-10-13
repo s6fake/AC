@@ -1,31 +1,74 @@
 {
 	"Schulen" : {
-		"Bardenschule" : {
-		 	"Musisches Talent" : {
+		"Bardenschule" : [
+			{
+				"Name" : "Musisches Talent",
 				"Beschreibung" : "Der Barde sucht sich eine Unterhaltungsfertigkeit aus, wie beispielsweise ein Instrument, Turnen, Rhetorik oder Schauspielerei. Auf diese erhält er einen Bonis in Höhe seiner Stufe in de Bardenscule. Es ist nicht möglich eine Waffenfertigkeit zu wählen"
 			},
-			"Erwachte Begabung" : {},
-			"Den Tapferen schützt das Glück" : {},
-			"Erwachte Begabung" : {},
-			"Rettung der Jungfrau" : {},
-			"Erwachte Begabung" : {},
-			"Mantelparade" : {},
-			"Erwachte Begabung" : {},
-			"Erwachte Begabung" : {},
-			"Die Gnade der Glücksgöttin" : {}
-		},
-		"Berserker" : {
-			"Blutrausch" : {},
-			"Kampfgebrüll" : {},
-			"Magieresistenz" : {},
-			"Berserkerwut" : {},
-			"Sprungattacke" : {},
-			"Der Rote Vorhang" : {},
-			"Die Kraft meiner Feinde": {},
-			"Furcht" : {},
-			"Der Zorn der Titanen" : {},
-			"Hammerschlag" : {}
-		},
+			{
+				"Name" : "Erwachte Begabung",
+				"Beschreibung": "Der Barde darf sich eine Spezialisierung aussuchen, die er gemeistert hat."
+			},
+			{
+				"Name": "Den Tapferen schützt das Glück"
+			},
+			{
+				"Name" : "Erwachte Begabung",
+				"Beschreibung": "Der Barde darf sich eine Spezialisierung aussuchen, die er gemeistert hat."
+			},
+			{
+				"Name": "Rettung der Jungfrau"
+			},
+			{
+				"Name" : "Erwachte Begabung",
+				"Beschreibung": "Der Barde darf sich eine Spezialisierung aussuchen, die er gemeistert hat."
+			},
+			{
+				"Name" : "Mantelparade"
+			},
+			{
+				"Name" : "Erwachte Begabung",
+				"Beschreibung": "Der Barde darf sich eine Spezialisierung aussuchen, die er gemeistert hat."
+			},
+			{
+				"Name" : "Erwachte Begabung",
+				"Beschreibung": "Der Barde darf sich eine Spezialisierung aussuchen, die er gemeistert hat."
+			},
+			{
+				"Name": "Die Gnade der Glücksgöttin"
+			}
+		],
+		"Berserker" : [
+			{
+				"Name": "Blutrausch"
+			},
+			{
+				"Name": "Kampfgebrüll"
+			},
+			{
+				"Name": "Magieresistenz"
+			},
+			{
+				"Name": "Berserkerwut"
+			},
+			{
+				"Name": "Sprungattacke"
+			},
+			{
+				"Name": "Der Rote Vorhang"
+			},
+			{
+				"Name": "Die Kraft meiner Feinde"
+			},
+			{
+				"Name": "Furcht"
+			},
+			{
+				"Name":	"Der Zorn der Titanen"
+			},
+			{
+				"Name": "Hammerschlag"}
+		],
 		"Blattschuss" : [],
 		"Dämonenjäger" : [],
 		"Florentine" : [],
