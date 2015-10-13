@@ -1,11 +1,31 @@
 {
 	"Schulen" : {
-		"Bardenschule" : [
-		{ "Musisches Talent" : {
-			"Beschreibung" : "Der Barde sucht sich eine Unterhaltungsfertigkeit aus, wie beispielsweise ein Instrument, Turnen, Rhetorik oder Schauspielerei. Auf diese erhält er einen Bonis in Höhe seiner Stufe in de Bardenscule. Es ist nicht möglich eine Waffenfertigkeit zu wählen"
-			}
-		}],
-		"Berserker" : [],
+		"Bardenschule" : {
+		 	"Musisches Talent" : {
+				"Beschreibung" : "Der Barde sucht sich eine Unterhaltungsfertigkeit aus, wie beispielsweise ein Instrument, Turnen, Rhetorik oder Schauspielerei. Auf diese erhält er einen Bonis in Höhe seiner Stufe in de Bardenscule. Es ist nicht möglich eine Waffenfertigkeit zu wählen"
+			},
+			"Erwachte Begabung" : {},
+			"Den Tapferen schützt das Glück" : {},
+			"Erwachte Begabung" : {},
+			"Rettung der Jungfrau" : {},
+			"Erwachte Begabung" : {},
+			"Mantelparade" : {},
+			"Erwachte Begabung" : {},
+			"Erwachte Begabung" : {},
+			"Die Gnade der Glücksgöttin" : {}
+		},
+		"Berserker" : {
+			"Blutrausch" : {},
+			"Kampfgebrüll" : {},
+			"Magieresistenz" : {},
+			"Berserkerwut" : {},
+			"Sprungattacke" : {},
+			"Der Rote Vorhang" : {},
+			"Die Kraft meiner Feinde": {},
+			"Furcht" : {},
+			"Der Zorn der Titanen" : {},
+			"Hammerschlag" : {}
+		},
 		"Blattschuss" : [],
 		"Dämonenjäger" : [],
 		"Florentine" : [],
