@@ -3,39 +3,63 @@
 		"Bardenschule" : [
 			{
 				"Name" : "Musisches Talent",
-				"Beschreibung" : "Der Barde sucht sich eine Unterhaltungsfertigkeit aus, wie beispielsweise ein Instrument, Turnen, Rhetorik oder Schauspielerei. Auf diese erhält er einen Bonis in Höhe seiner Stufe in de Bardenscule. Es ist nicht möglich eine Waffenfertigkeit zu wählen"
+				"Beschreibung" : "Der Barde sucht sich eine Unterhaltungsfertigkeit aus, wie beispielsweise ein Instrument, Turnen, Rhetorik oder Schauspielerei. Auf diese erhält er einen Bonis in Höhe seiner Stufe in de Bardenscule. Es ist nicht möglich eine Waffenfertigkeit zu wählen",
+				"Bonus" : {
+					"Auswahl": "Fertigkeiten",
+					"Bonus": 0,
+					"Faktor": 1
+				}
 			},
 			{
 				"Name" : "Erwachte Begabung",
-				"Beschreibung": "Der Barde darf sich eine Spezialisierung aussuchen, die er gemeistert hat."
+				"Beschreibung": "Der Barde darf sich eine Spezialisierung aussuchen, die er gemeistert hat.",
+				"Bonus":{
+					"Auswahl": ["Agiator", "Akrobat", "Artefaktkundler", "Bannsänger", "Geschichtenerzähler", "Harlekin", "Hypnotiseur", "Kantor", "Lehrer", "Minnesänger", "Scharlatan", "Schausteller", "Skalde", "Traumdeuter", "Troubadour", "Zaubersänger"]
+				}
 			},
 			{
-				"Name": "Den Tapferen schützt das Glück"
-			},
-			{
-				"Name" : "Erwachte Begabung",
-				"Beschreibung": "Der Barde darf sich eine Spezialisierung aussuchen, die er gemeistert hat."
-			},
-			{
-				"Name": "Rettung der Jungfrau"
+				"Name": "Den Tapferen schützt das Glück",
+				"Beschreibung" : "Der Barde vermutet intuitiv, wo der nächste Angriff des Gegners hinziehlt. Solange er keine Rüstung mit nichtmagischem RS, der höher als zwei ist, trägt, so steigt sein VW um seine Stufe in der Bardentechnik durch zwei an."
 			},
 			{
 				"Name" : "Erwachte Begabung",
-				"Beschreibung": "Der Barde darf sich eine Spezialisierung aussuchen, die er gemeistert hat."
+				"Beschreibung": "Der Barde darf sich eine Spezialisierung aussuchen, die er gemeistert hat.",
+				"Bonus":{
+					"Auswahl": ["Agiator", "Akrobat", "Artefaktkundler", "Bannsänger", "Geschichtenerzähler", "Harlekin", "Hypnotiseur", "Kantor", "Lehrer", "Minnesänger", "Scharlatan", "Schausteller", "Skalde", "Traumdeuter", "Troubadour", "Zaubersänger"]
+				}			
 			},
 			{
-				"Name" : "Mantelparade"
+				"Name": "Rettung der Jungfrau",
+				"Beschreibung": "Der Barde erhält einen Bonus in Höhe seiner Stufe in der Bardenschule auf den Schaden all seiner Angriffe, wenn es darum geht, Angehörige des anderen Geschlechts zu beschützen, die sich in direkter Gefahr befinden."
 			},
 			{
 				"Name" : "Erwachte Begabung",
-				"Beschreibung": "Der Barde darf sich eine Spezialisierung aussuchen, die er gemeistert hat."
+				"Beschreibung": "Der Barde darf sich eine Spezialisierung aussuchen, die er gemeistert hat.",
+				"Bonus":{
+					"Auswahl": ["Agiator", "Akrobat", "Artefaktkundler", "Bannsänger", "Geschichtenerzähler", "Harlekin", "Hypnotiseur", "Kantor", "Lehrer", "Minnesänger", "Scharlatan", "Schausteller", "Skalde", "Traumdeuter", "Troubadour", "Zaubersänger"]
+				}
+			},
+			{
+				"Name" : "Mantelparade",
+				"Beschreibung": "Einmal pro Runde bekommt der Barde eine Parade mit seinem Mantel oder Cape als freie Aktion."
 			},
 			{
 				"Name" : "Erwachte Begabung",
-				"Beschreibung": "Der Barde darf sich eine Spezialisierung aussuchen, die er gemeistert hat."
+				"Beschreibung": "Der Barde darf sich eine Spezialisierung aussuchen, die er gemeistert hat.",
+				"Bonus":{
+					"Auswahl": ["Agiator", "Akrobat", "Artefaktkundler", "Bannsänger", "Geschichtenerzähler", "Harlekin", "Hypnotiseur", "Kantor", "Lehrer", "Minnesänger", "Scharlatan", "Schausteller", "Skalde", "Traumdeuter", "Troubadour", "Zaubersänger"]
+				}
 			},
 			{
-				"Name": "Die Gnade der Glücksgöttin"
+				"Name" : "Erwachte Begabung",
+				"Beschreibung": "Der Barde darf sich eine Spezialisier-ung aussuchen, die er gemeistert hat.",
+				"Bonus":{
+					"Auswahl": ["Agiator", "Akrobat", "Artefaktkundler", "Bannsänger", "Geschichtenerzähler", "Harlekin", "Hypnotiseur", "Kantor", "Lehrer", "Minnesänger", "Scharlatan", "Schausteller", "Skalde", "Traumdeuter", "Troubadour", "Zaubersänger"]
+				}
+			},
+			{
+				"Name": "Die Gnade der Glücksgöttin",
+				"Beschreibung": "Der Barde kann einmal pro Spielabend auf die Gnade der Glücksgöttin vertrauen und einen beliebigen Wurf, auch den Wurf eines Gegners oder eines anderen Charakters, neu würfeln lassen und sich für eines der Ergebnisse entscheiden."
 			}
 		],
 		"Berserker" : [
