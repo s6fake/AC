@@ -5,7 +5,7 @@
 				"Name" : "Musisches Talent",
 				"Beschreibung" : "Der Barde sucht sich eine Unterhaltungsfertigkeit aus, wie beispielsweise ein Instrument, Turnen, Rhetorik oder Schauspielerei. Auf diese erhält er einen Bonis in Höhe seiner Stufe in de Bardenscule. Es ist nicht möglich eine Waffenfertigkeit zu wählen",
 				"Bonus" : {
-					"Auswahl": "Fertigkeiten",
+					"Spezialisierung": "Fertigkeiten",
 					"Bonus": 0,
 					"Faktor": 1
 				}
@@ -14,7 +14,7 @@
 				"Name" : "Erwachte Begabung",
 				"Beschreibung": "Der Barde darf sich eine Spezialisierung aussuchen, die er gemeistert hat.",
 				"Bonus":{
-					"Auswahl": ["Agiator", "Akrobat", "Artefaktkundler", "Bannsänger", "Geschichtenerzähler", "Harlekin", "Hypnotiseur", "Kantor", "Lehrer", "Minnesänger", "Scharlatan", "Schausteller", "Skalde", "Traumdeuter", "Troubadour", "Zaubersänger"]
+					"Spezialisierung": ["Agiator", "Akrobat", "Artefaktkundler", "Bannsänger", "Geschichtenerzähler", "Harlekin", "Hypnotiseur", "Kantor", "Lehrer", "Minnesänger", "Scharlatan", "Schausteller", "Skalde", "Traumdeuter", "Troubadour", "Zaubersänger"]
 				}
 			},
 			{
@@ -25,7 +25,7 @@
 				"Name" : "Erwachte Begabung",
 				"Beschreibung": "Der Barde darf sich eine Spezialisierung aussuchen, die er gemeistert hat.",
 				"Bonus":{
-					"Auswahl": ["Agiator", "Akrobat", "Artefaktkundler", "Bannsänger", "Geschichtenerzähler", "Harlekin", "Hypnotiseur", "Kantor", "Lehrer", "Minnesänger", "Scharlatan", "Schausteller", "Skalde", "Traumdeuter", "Troubadour", "Zaubersänger"]
+					"Spezialisierung": ["Agiator", "Akrobat", "Artefaktkundler", "Bannsänger", "Geschichtenerzähler", "Harlekin", "Hypnotiseur", "Kantor", "Lehrer", "Minnesänger", "Scharlatan", "Schausteller", "Skalde", "Traumdeuter", "Troubadour", "Zaubersänger"]
 				}			
 			},
 			{
@@ -36,7 +36,7 @@
 				"Name" : "Erwachte Begabung",
 				"Beschreibung": "Der Barde darf sich eine Spezialisierung aussuchen, die er gemeistert hat.",
 				"Bonus":{
-					"Auswahl": ["Agiator", "Akrobat", "Artefaktkundler", "Bannsänger", "Geschichtenerzähler", "Harlekin", "Hypnotiseur", "Kantor", "Lehrer", "Minnesänger", "Scharlatan", "Schausteller", "Skalde", "Traumdeuter", "Troubadour", "Zaubersänger"]
+					"Spezialisierung": ["Agiator", "Akrobat", "Artefaktkundler", "Bannsänger", "Geschichtenerzähler", "Harlekin", "Hypnotiseur", "Kantor", "Lehrer", "Minnesänger", "Scharlatan", "Schausteller", "Skalde", "Traumdeuter", "Troubadour", "Zaubersänger"]
 				}
 			},
 			{
@@ -47,14 +47,14 @@
 				"Name" : "Erwachte Begabung",
 				"Beschreibung": "Der Barde darf sich eine Spezialisierung aussuchen, die er gemeistert hat.",
 				"Bonus":{
-					"Auswahl": ["Agiator", "Akrobat", "Artefaktkundler", "Bannsänger", "Geschichtenerzähler", "Harlekin", "Hypnotiseur", "Kantor", "Lehrer", "Minnesänger", "Scharlatan", "Schausteller", "Skalde", "Traumdeuter", "Troubadour", "Zaubersänger"]
+					"Spezialisierung": ["Agiator", "Akrobat", "Artefaktkundler", "Bannsänger", "Geschichtenerzähler", "Harlekin", "Hypnotiseur", "Kantor", "Lehrer", "Minnesänger", "Scharlatan", "Schausteller", "Skalde", "Traumdeuter", "Troubadour", "Zaubersänger"]
 				}
 			},
 			{
 				"Name" : "Erwachte Begabung",
 				"Beschreibung": "Der Barde darf sich eine Spezialisier-ung aussuchen, die er gemeistert hat.",
 				"Bonus":{
-					"Auswahl": ["Agiator", "Akrobat", "Artefaktkundler", "Bannsänger", "Geschichtenerzähler", "Harlekin", "Hypnotiseur", "Kantor", "Lehrer", "Minnesänger", "Scharlatan", "Schausteller", "Skalde", "Traumdeuter", "Troubadour", "Zaubersänger"]
+					"Spezialisierung": ["Agiator", "Akrobat", "Artefaktkundler", "Bannsänger", "Geschichtenerzähler", "Harlekin", "Hypnotiseur", "Kantor", "Lehrer", "Minnesänger", "Scharlatan", "Schausteller", "Skalde", "Traumdeuter", "Troubadour", "Zaubersänger"]
 				}
 			},
 			{
