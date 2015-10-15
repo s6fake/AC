@@ -1,119 +1,22 @@
-{
-	"Schulen" : {
-		"Bardenschule" : [
-			{
-				"Name" : "Musisches Talent",
-				"Beschreibung" : "Der Barde sucht sich eine Unterhaltungsfertigkeit aus, wie beispielsweise ein Instrument, Turnen, Rhetorik oder Schauspielerei. Auf diese erhält er einen Bonis in Höhe seiner Stufe in de Bardenscule. Es ist nicht möglich eine Waffenfertigkeit zu wählen",
-				"Bonus" : {
-					"Spezialisierung": "Fertigkeiten",
-					"Bonus": 0,
-					"Faktor": 1
-				}
-			},
-			{
-				"Name" : "Erwachte Begabung",
-				"Beschreibung": "Der Barde darf sich eine Spezialisierung aussuchen, die er gemeistert hat.",
-				"Bonus":{
-					"Spezialisierung": ["Agiator", "Akrobat", "Artefaktkundler", "Bannsänger", "Geschichtenerzähler", "Harlekin", "Hypnotiseur", "Kantor", "Lehrer", "Minnesänger", "Scharlatan", "Schausteller", "Skalde", "Traumdeuter", "Troubadour", "Zaubersänger"]
-				}
-			},
-			{
-				"Name": "Den Tapferen schützt das Glück",
-				"Beschreibung" : "Der Barde vermutet intuitiv, wo der nächste Angriff des Gegners hinziehlt. Solange er keine Rüstung mit nichtmagischem RS, der höher als zwei ist, trägt, so steigt sein VW um seine Stufe in der Bardentechnik durch zwei an."
-			},
-			{
-				"Name" : "Erwachte Begabung",
-				"Beschreibung": "Der Barde darf sich eine Spezialisierung aussuchen, die er gemeistert hat.",
-				"Bonus":{
-					"Spezialisierung": ["Agiator", "Akrobat", "Artefaktkundler", "Bannsänger", "Geschichtenerzähler", "Harlekin", "Hypnotiseur", "Kantor", "Lehrer", "Minnesänger", "Scharlatan", "Schausteller", "Skalde", "Traumdeuter", "Troubadour", "Zaubersänger"]
-				}			
-			},
-			{
-				"Name": "Rettung der Jungfrau",
-				"Beschreibung": "Der Barde erhält einen Bonus in Höhe seiner Stufe in der Bardenschule auf den Schaden all seiner Angriffe, wenn es darum geht, Angehörige des anderen Geschlechts zu beschützen, die sich in direkter Gefahr befinden."
-			},
-			{
-				"Name" : "Erwachte Begabung",
-				"Beschreibung": "Der Barde darf sich eine Spezialisierung aussuchen, die er gemeistert hat.",
-				"Bonus":{
-					"Spezialisierung": ["Agiator", "Akrobat", "Artefaktkundler", "Bannsänger", "Geschichtenerzähler", "Harlekin", "Hypnotiseur", "Kantor", "Lehrer", "Minnesänger", "Scharlatan", "Schausteller", "Skalde", "Traumdeuter", "Troubadour", "Zaubersänger"]
-				}
-			},
-			{
-				"Name" : "Mantelparade",
-				"Beschreibung": "Einmal pro Runde bekommt der Barde eine Parade mit seinem Mantel oder Cape als freie Aktion."
-			},
-			{
-				"Name" : "Erwachte Begabung",
-				"Beschreibung": "Der Barde darf sich eine Spezialisierung aussuchen, die er gemeistert hat.",
-				"Bonus":{
-					"Spezialisierung": ["Agiator", "Akrobat", "Artefaktkundler", "Bannsänger", "Geschichtenerzähler", "Harlekin", "Hypnotiseur", "Kantor", "Lehrer", "Minnesänger", "Scharlatan", "Schausteller", "Skalde", "Traumdeuter", "Troubadour", "Zaubersänger"]
-				}
-			},
-			{
-				"Name" : "Erwachte Begabung",
-				"Beschreibung": "Der Barde darf sich eine Spezialisier-ung aussuchen, die er gemeistert hat.",
-				"Bonus":{
-					"Spezialisierung": ["Agiator", "Akrobat", "Artefaktkundler", "Bannsänger", "Geschichtenerzähler", "Harlekin", "Hypnotiseur", "Kantor", "Lehrer", "Minnesänger", "Scharlatan", "Schausteller", "Skalde", "Traumdeuter", "Troubadour", "Zaubersänger"]
-				}
-			},
-			{
-				"Name": "Die Gnade der Glücksgöttin",
-				"Beschreibung": "Der Barde kann einmal pro Spielabend auf die Gnade der Glücksgöttin vertrauen und einen beliebigen Wurf, auch den Wurf eines Gegners oder eines anderen Charakters, neu würfeln lassen und sich für eines der Ergebnisse entscheiden."
-			}
-		],
-		"Berserker" : [
-			{
-				"Name": "Blutrausch"
-			},
-			{
-				"Name": "Kampfgebrüll"
-			},
-			{
-				"Name": "Magieresistenz"
-			},
-			{
-				"Name": "Berserkerwut"
-			},
-			{
-				"Name": "Sprungattacke"
-			},
-			{
-				"Name": "Der Rote Vorhang"
-			},
-			{
-				"Name": "Die Kraft meiner Feinde"
-			},
-			{
-				"Name": "Furcht"
-			},
-			{
-				"Name":	"Der Zorn der Titanen"
-			},
-			{
-				"Name": "Hammerschlag"}
-		],
-		"Blattschuss" : [],
-		"Dämonenjäger" : [],
-		"Florentine" : [],
-		"Galea" : [],
-		"Gossenkampf" : [],
-		"Graue Eminenz" : [],
-		"Herrscher dunkler Gassen" : [],
-		"Jäger" : [],
-		"Klingenlied" : [],
-		"Kryss" : [],
-		"Lichtbringer" : [],
-		"Nachtgeist" : [],
-		"Praetoria" : [],
-		"Riastradh" : [],
-		"Saboteur" : [],
-		"Schattenhand" : [],
-		"Schnitter" : [],
-		"Stahlfaust" : [],
-		"Sturmreiter" : [],
-		"Tiermeister" : [],
-		"Waffenmeister" : [],
-		"Windkrieger" : []
-	}
-}
+`T:,fbkµT?`T2*j-kµ :,fbkT?ß`T3*!kT?T4f d :,k &F*bkµhT"T2k :,jkd|fµ.T?Tkj&2*j-k& f:,h& d:,&kdµk&Sµhkj,*bhfµ. >kjhd.nkdh&*f "&ldk&|kd 'dkb lkd k&kdµ&Aµ hjf!kµh"&Ffjµkµ"&G,khsjdn&s-kj&:,*f 'dkbkjkd§&[f>&-dk k&kj,cbh&kj&kdµkµ&2sµd &dµ&
+v,k& kdµkj&hf>k&dµ&-k&2*j-kµ :fbk§&H &d h&µd:,h&!v.bd:,&kdµk&J*>>kµ>kjhd.nkdh&gf&lc,bkµT"T2sµf T?`T'kgd*bd dkjfµ.T?T
+kjhd.nkdhkµT"T2sµf T?ü"T
+*nhsjT?wqq"`T3*!kT?THjl*:,hk&2k.*|fµ.T"T2k :,jkd|fµ.T?Tkj&2*j-k&-*j>& d:,&kdµk&'kgd*bd dkjfµ.&*f  f:,kµ"&-dk&kj&.k!kd hkjh&,*h§T"T2sµf T?`T'kgd*bd dkjfµ.T?ßT[.d*hsjT"T[njs|*hT"T[jhk>*nhnfµ-bkjT"T2*µµ cµ.kjT"T	k :,d:,hkµkjgc,bkjT"T
+*jbkndµT"T
+~'µshd kfjT"TM*µhsjT"TNk,jkjT"T4dµµk cµ.kjT"T:,*jb*h*µT"T:,*f hkbbkjT"Tn*b-kT"TFj*f!-kfhkjT"TFjsf|*-sfjT"TD*f|kj cµ.kjT´qq"`T3*!kT?Tkµ&F*'>kjkµ& :,ahgh&-* &	ba:nT"T2k :,jkd|fµ.T?Tkj&2*j-k&;kj!fhkh&dµhfdhd;"&ls&-kj&µc:, hk&[µ.jd>>&-k &	k.µkj &,dµgdk,bh§&sb*µ.k&kj&nkdµk&Ga hfµ.&!dh&µd:,h!*.d :,k!&G"&-kj&,v,kj&*b &glkd&d h"&hjc.h"& s& hkd.h& kdµ&J&f!& kdµk&hf>k&dµ&-kj&2*j-kµhk:,µdn&-fj:,&glkd&*µ§Tq"`T3*!kT?THjl*:,hk&2k.*|fµ.T"T2k :,jkd|fµ.T?Tkj&2*j-k&-*j>& d:,&kdµk&'kgd*bd dkjfµ.&*f  f:,kµ"&-dk&kj&.k!kd hkjh&,*h§T"T2sµf T?`T'kgd*bd dkjfµ.T?ßT[.d*hsjT"T[njs|*hT"T[jhk>*nhnfµ-bkjT"T2*µµ cµ.kjT"T	k :,d:,hkµkjgc,bkjT"T
+*jbkndµT"T
+~'µshd kfjT"TM*µhsjT"TNk,jkjT"T4dµµk cµ.kjT"T:,*jb*h*µT"T:,*f hkbbkjT"Tn*b-kT"TFj*f!-kfhkjT"TFjsf|*-sfjT"TD*f|kj cµ.kjT´qq"`T3*!kT?TGkhhfµ.&-kj&@fµ.>j*fT"T2k :,jkd|fµ.T?Tkj&2*j-k&kj,cbh&kdµkµ&2sµf &dµ&
+v,k& kdµkj&hf>k&dµ&-kj&2*j-kµ :,fbk&*f>&-kµ&:,*-kµ&*bb& kdµkj&[µ.jd>>k"&lkµµ&k &-*jf!&.k,h"&[µ.k,vjd.k&-k &*µ-kjkµ&	k :,bk:,h &gf&|k :,ahgkµ"&-dk& d:,&dµ&-djknhkj&	k>*,j&|k>dµ-kµ§Tq"`T3*!kT?THjl*:,hk&2k.*|fµ.T"T2k :,jkd|fµ.T?Tkj&2*j-k&-*j>& d:,&kdµk&'kgd*bd dkjfµ.&*f  f:,kµ"&-dk&kj&.k!kd hkjh&,*h§T"T2sµf T?`T'kgd*bd dkjfµ.T?ßT[.d*hsjT"T[njs|*hT"T[jhk>*nhnfµ-bkjT"T2*µµ cµ.kjT"T	k :,d:,hkµkjgc,bkjT"T
+*jbkndµT"T
+~'µshd kfjT"TM*µhsjT"TNk,jkjT"T4dµµk cµ.kjT"T:,*jb*h*µT"T:,*f hkbbkjT"Tn*b-kT"TFj*f!-kfhkjT"TFjsf|*-sfjT"TD*f|kj cµ.kjT´qq"`T3*!kT?T4*µhkb'*j*-kT"T2k :,jkd|fµ.T?THdµ!*b&'js&Gfµ-k&|kns!!h&-kj&2*j-k&kdµk&X*j*-k&!dh& kdµk!&4*µhkb&s-kj&}*'k&*b &>jkdk&[nhdsµ§Tq"`T3*!kT?THjl*:,hk&2k.*|fµ.T"T2k :,jkd|fµ.T?Tkj&2*j-k&-*j>& d:,&kdµk&'kgd*bd dkjfµ.&*f  f:,kµ"&-dk&kj&.k!kd hkjh&,*h§T"T2sµf T?`T'kgd*bd dkjfµ.T?ßT[.d*hsjT"T[njs|*hT"T[jhk>*nhnfµ-bkjT"T2*µµ cµ.kjT"T	k :,d:,hkµkjgc,bkjT"T
+*jbkndµT"T
+~'µshd kfjT"TM*µhsjT"TNk,jkjT"T4dµµk cµ.kjT"T:,*jb*h*µT"T:,*f hkbbkjT"Tn*b-kT"TFj*f!-kfhkjT"TFjsf|*-sfjT"TD*f|kj cµ.kjT´qq"`T3*!kT?THjl*:,hk&2k.*|fµ.T"T2k :,jkd|fµ.T?Tkj&2*j-k&-*j>& d:,&kdµk&'kgd*bd dkj%fµ.&*f  f:,kµ"&-dk&kj&.k!kd hkjh&,*h§T"T2sµf T?`T'kgd*bd dkjfµ.T?ßT[.d*hsjT"T[njs|*hT"T[jhk>*nhnfµ-bkjT"T2*µµ cµ.kjT"T	k :,d:,hkµkjgc,bkjT"T
+*jbkndµT"T
+~'µshd kfjT"TM*µhsjT"TNk,jkjT"T4dµµk cµ.kjT"T:,*jb*h*µT"T:,*f hkbbkjT"Tn*b-kT"TFj*f!-kfhkjT"TFjsf|*-sfjT"TD*f|kj cµ.kjT´qq"`T3*!kT?Tdk&	µ*-k&-kj&	ba:n .vhhdµT"T2k :,jkd|fµ.T?Tkj&2*j-k&n*µµ&kdµ!*b&'js&'dkb*|kµ-&*f>&-dk&	µ*-k&-kj&	ba:n .vhhdµ&;kjhj*fkµ&fµ-&kdµkµ&|kbdk|d.kµ&Jfj>"&*f:,&-kµ&Jfj>&kdµk &	k.µkj &s-kj&kdµk &*µ-kjkµ&},*j*nhkj "&µkf&laj>kbµ&b*  kµ&fµ-& d:,&>aj&kdµk &-kj&Hj.k|µd  k&kµh :,kd-kµ§Tq´"T2kj kjnkjT?ß`T3*!kT?T2bfhj*f :,T"T2k :,jkd|fµ.T?TFvhkh&-kj&2kj kjnkj&kdµkµ&	k.µkj&!dh&kdµk!&|bdµ-lahd.kµ&[µ.jd>>"& s&kj,cbh&kj& s>sjh&kdµkµ&lkdhkjkµ&|bdµ-lahd.kµ&[µ.jd>>&*b &kdµk&>jkdk&[nhdsµ§&s>kjµ&kj& d:,&nkdµk&[nhdsµkµ&>aj&2klk.fµ.&*f>.k '*jh&,*h"&n*µµ&kj&-*!dh&µfj&	k.µkj&*µ>jkd>kµ"&-dk& d:,&dµ&-kj&Gkd:,lkdhk& kdµkj&J*>>k&|k>dµ-kµ§&dk&Fk:,µdn&bc  h& d:,&kdµ!*b&'js&Gfµ-k&|d &kdµ :,bdk+bd:,&hf>k&>aµ>&dµ&-kj&2kj kjnkj :,fbk&fµ-&glkd!*b&'js&Gfµ-k&*f>&*bbkµ&,v,kjkµ&hf>kµ&*µlkµ-kµ§Tq"`T3*!kT?TM*!'>.k|jabbT"T2k :,jkd|fµ.T?Tkj&2kj kjnkj& hv+h&kdµ&!*jnkj :,ahhkjµ-k &M*!'>.k :,jkd&*f §&Hj&bk.h&kdµk&Hdµ :,a:,hkjfµ. 'js|k&.k.kµ&-kµ&,v:, hkµ&	J& kdµkj&	k.µkj&dµ&
+vjlkdhk&*|§&A h&kj&kj>sb.jkd:,"& s&n*µµ&mk-kj&	k.µkj"&-kj&-kµ&M*!'> :,jkd&,vjh"&dµ&-dk kj&Gfµ-k&nkdµk&*jn*µkµ&Mj*>h'fµnhk&kdµ khgkµ§&* &M*!'>.k|jabb&*f gf hs+kµ&d h&kdµk&[nhdsµ§Tq"`T3*!kT?T4*.dkjk d hkµgT"T2k :,jkd|fµ.T?Tkj&2kj kjnkj&|kns!!h&*f>&*bbk&Jd-kj h*µ- lkjhk&.k.kµ&4*.dk&kdµkµ&2sµf &dµ&,v,k& kdµkj&,*b|kµ&hf>k&dµ&-kj&2kj kjnkj :,fbk§Tq"`T3*!kT?T2kj kjnkjlfhT"T2k :,jkd|fµ.T?Tdk&2kj kjnkjlfh&,cbh&-dk&Msµ hdhfhdsµ&-k &},*j*nhkj &dµ&Gfµ-kµ&*µ§&dk&n*µµ& s&s>h&*!&F*.&|k :,lsjkµ&lkj-kµ"&ldk&-dk&hf>k&-k &},*j*nhkj &dµ&-kj&2kj kjnkj :,fbk&|khjc.h§&
+aj&-dk k&Dkdh& 'ajh&-kj&},*j*nhkj&lk-kj&-dk&[f ldjnfµ.kµ&;sµ&	d>h"&µs:,& kdµk&kjlfµ-fµ.kµ§&Hj&.k,h&µd:,h&*f+kj&	k>k:,h"&>cbbh&µd:,h&dµ &Ms!*§&dk&[|ga.k&-fj:,&Jfµ-kµ&fµ-&	d>hk&kµh>*bbkµ"& sb*µ.k&-dk&2kj kjnkjlfh&*µ-*fkjh§Tq"`T3*!kT?T'jfµ.*hh*:nkT"T2k :,jkd|fµ.T?Tkj&},*j*nhkj& 'jdµh&*f>& kdµkµ&	k.µkj&gf&fµ-&.jkd>h&d,µ&|bdµ-lahd.&*µ§&kdµk&!*_d!*bk&Gkd:,lkdhk&|khjc.h& kdµk&hcjnk&dµ&4khkjµ§&dk &.dbh&*b &kdµk&[nhdsµ§&Hj&n*µµ& d:,&*b s&gf chgbd:,&gf& kdµk!&[µ.jd>>&kdµ&.*µgk &ha:n&|klk.kµ§Tq"`T3*!kT?Tkj&Gshk&sj,*µ.Tq"`T3*!kT?Tdk&Mj*>h&!kdµkj&
+kdµ-kTq"`T3*!kT?T
+fj:,hTq"`T3*!kT?Tkj&Dsjµ&-kj&Fdh*µkµTq"`T3*!kT?T
+*!!kj :,b*.Tq´"T2b*hh :,f  T?ß´"Tc!sµkµmc.kjT?ß´"T
+bsjkµhdµkT?ß´"T	*bk*T?ß´"T	s  kµn*!'>T?ß´"T	j*fk&H!dµkµgT?ß´"T
+kjj :,kj&-fµnbkj&	*  kµT?ß´"T@c.kjT?ß´"TMbdµ.kµbdk-T?ß´"TMj~  T?ß´"TNd:,h|jdµ.kjT?ß´"T3*:,h.kd hT?ß´"TXj*khsjd*T?ß´"TGd* hj*-,T?ß´"T*|shkfjT?ß´"T:,*hhkµ,*µ-T?ß´"T:,µdhhkjT?ß´"Th*,b>*f hT?ß´"Thfj!jkdhkjT?ß´"TFdkj!kd hkjT?ß´"TJ*>>kµ!kd hkjT?ß´"TJdµ-njdk.kjT?ß´qq
